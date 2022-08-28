@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const apiRoutes = require('./api');
 
+// Sends all api requests to api route
 router.use('/api', apiRoutes);
 
 router.use((req, res) => {
