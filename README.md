@@ -28,7 +28,7 @@ This project is intended as a homework assignment for class.  Questions, comment
 
 ## Demo:
 
-> Video demoing team profile generator in action.
+> Video demoing team E-Commerce Back End in action.
 
 https://user-images.githubusercontent.com/103389448/187056983-43172eb4-3c80-4235-ab08-66c79e5897b1.mp4
 
